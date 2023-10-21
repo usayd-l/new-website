@@ -1317,6 +1317,9 @@ ol {
 
 
 /* # Contact */
+
+a { color: inherit; } 
+
 .contact-area {
     padding-top: 80px;
 }
